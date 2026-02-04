@@ -12,7 +12,7 @@ ADS student at PUCPR
 - Hands-on practice with real testing tools and projects
 
 🧪 QA Tools & Skills
-- Manual testing (test cases, exploratory testing)
+- Manual testing (test cases, exploratory testing, regression testing)
 - Test automation: Playwright (JavaScript), Selenium (Python)
 - Basic knowledge: Cypress (E2E)
 - Languages: Python, Java, JavaScript
