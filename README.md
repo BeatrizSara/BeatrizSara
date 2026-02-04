@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Beatriz Sara
 
-<!--
-**BeatrizSara/BeatrizSara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA | Software Quality  
+ADS student at PUCPR
 
-Here are some ideas to get you started:
+🔍 About me
+- Focused on software quality and user experience
+- Experience with manual testing and test automation
+- Hands-on practice with real testing tools and projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 QA Tools & Skills
+- Manual testing (test cases, exploratory testing)
+- Test automation: Playwright (JavaScript), Selenium (Python)
+- Basic knowledge: Cypress
+- Languages: Python, Java, JavaScript
+- Version control: Git & GitHub
+
+📌 Featured projects
+- Web automation with Playwright (SauceDemo)
+- Web automation with Selenium (Python)
+
+🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/beatriz-sara/
