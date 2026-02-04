@@ -3,7 +3,7 @@
 QA | Software Quality  
 ADS student at PUCPR
 
-🎓 Studying Systems Analysis and Development at PUCPR (Curitiba, Brazil)
+🎓 Studying Systems Analysis and Development at PUCPR (Curitiba, Brazil)<br>
 🌱 Currently improving my skills in software testing and test automation
 
 🔍 About me
