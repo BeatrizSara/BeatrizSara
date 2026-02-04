@@ -11,13 +11,13 @@ ADS student at PUCPR
 🧪 QA Tools & Skills
 - Manual testing (test cases, exploratory testing)
 - Test automation: Playwright (JavaScript), Selenium (Python)
-- Basic knowledge: Cypress
+- Basic knowledge: Cypress (E2E)
 - Languages: Python, Java, JavaScript
 - Version control: Git & GitHub
 
 📌 Featured projects
-- Web automation with Playwright (SauceDemo)
-- Web automation with Selenium (Python)
+- Web automation with Playwright (SauceDemo – E2E testing)
+- Web automation with Selenium (Python – UI testing)
 
 🔗 Connect with me
 - LinkedIn: https://www.linkedin.com/in/beatriz-sara/
